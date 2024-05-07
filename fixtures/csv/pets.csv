@@ -1,0 +1,5 @@
+pet_id,category_id,category_name,pet_name,tags,status
+938944502,2,cat,Garfield,1-vacinado;2-vermifugado,available
+938944503,3,fish,Nemo,3-raro,available
+938944504,1,dog,Nina,2-vermifugado,available
+938944505,3,bird,Lira,3-raro,available

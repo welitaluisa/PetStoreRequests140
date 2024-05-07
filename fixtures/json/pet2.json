@@ -1,0 +1,18 @@
+    {
+        "id": 938944501,
+        "category": {
+        "id": 1,
+        "name": "Cat"
+        },
+        "name": "Leticia",
+        "photoUrls": [
+        "string"
+        ],
+        "tags": [
+        {
+            "id": 1,
+            "name": "Vacinado"
+        }
+        ],
+        "status": "sold"
+    }
